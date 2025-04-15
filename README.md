@@ -1,7 +1,5 @@
 
-
-![fronter](![fronter](https://github.com/user-attachments/assets/a3876af8-fad6-4deb-826f-6bb40040fa35)
-
+![fronter](https://github.com/user-attachments/assets/ae839279-d863-46e1-9ea6-a6efda7c3259)
 
 <body>
     <main>

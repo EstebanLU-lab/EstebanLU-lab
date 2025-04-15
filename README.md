@@ -1,23 +1,38 @@
 
 ![fronter](https://github.com/user-attachments/assets/ae839279-d863-46e1-9ea6-a6efda7c3259)
 
-<body>
-    <main>
-        <p>Ingeniero mecánico con habilidades de programación en Phyton y SQL, así como 
+
+## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+Ingeniero mecánico con habilidades de programación en Phyton y SQL, así como 
 creación de dashboard, orientado al análisis de datos para impulsar o resolver 
 problemáticas relacionados con toma de decisiones, visualización y pruebas de 
 mercado. En búsqueda de crecimiento profesional y desarrollo de nuevas habilidades 
-profesionales..</p>
-    </main>
-</body>
-</html>
-<!--
-### 👨🏽‍💻 Workspace
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
--->
+profesionales.
+
+
+### Portfolio: https://brdhanani.github.io
+
+<a href="https://twitter.com/dhanani_brijesh">
+  <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/people/Brijesh-Dhanani/100010798357963">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/singer_brijesh_dhanani">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://youtu.be/X_zgw9GojSc">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+<br />
+<br />
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
 <!-- STATS Y LENGUAJES MAS USADOS -->

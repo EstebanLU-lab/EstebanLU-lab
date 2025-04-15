@@ -14,7 +14,7 @@ profesionales.
 ### Portfolio: [https://brdhanani.github.io](https://github.com/EstebanLU-lab?tab=repositories)
 
 
-<a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141](https://www.linkedin.com/in/esteban-laureano/">
+<a href="https:https://www.linkedin.com/in/esteban-laureano/?trk=opento_sprofile_pfeditor">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 

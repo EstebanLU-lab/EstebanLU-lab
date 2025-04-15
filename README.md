@@ -1,7 +1,37 @@
-![fronter](https://github.com/user-attachments/assets/e6bfa36b-cedf-4e83-8e31-04f706358827)width="300" height="200"
 
 
-
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        main {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a Mi Página Web</h1>
+    </header>
+    <main>
+        <p>Este es el contenido del cuerpo de la página.</p>
+    </main>
+</body>
+</html>
 <!--
 **EstebanLU-lab/EstebanLU-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

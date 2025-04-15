@@ -14,11 +14,11 @@ profesionales.
 ### Portfolio: [https://brdhanani.github.io](https://github.com/EstebanLU-lab?tab=repositories)
 
 
-<a href="[https://www.linkedin.com/in/brijesh-dhanani-8a2061141](https://www.linkedin.com/in/esteban-laureano/)">
+<a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141](https://www.linkedin.com/in/esteban-laureano/">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="[https://www.instagram.com/singer_brijesh_dhanani](https://www.instagram.com/estervin/?igsh=MXQ4aWR5ajc0bmszaQ%3D%3D#)">
+<a href="https://www.instagram.com/singer_brijesh_dhanani](https://www.instagram.com/estervin/?igsh=MXQ4aWR5ajc0bmszaQ%3D%3D#">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 

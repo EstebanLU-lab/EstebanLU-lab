@@ -5,10 +5,11 @@
 
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Ingeniero mecánico con habilidades de programación en Phyton y SQL, así como 
-creación de dashboard, orientado al análisis de datos para impulsar o resolver 
-problemáticas relacionados con toma de decisiones, visualización y pruebas de 
-mercado. En búsqueda de crecimiento profesional y desarrollo de nuevas habilidades 
+-Ingeniero mecánico
+-Habilidades de programación en Phyton y SQL
+-Creación de dashboard 
+-Orientado al análisis de datos para impulsar o resolver 
+-En búsqueda de crecimiento profesional y desarrollo de nuevas habilidades 
 profesionales.
 
 

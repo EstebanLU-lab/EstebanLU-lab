@@ -1,5 +1,6 @@
 
-![fronter](https://github.com/user-attachments/assets/ae839279-d863-46e1-9ea6-a6efda7c3259)
+![fronter](https://github.com/user-attachments/assets/37c642dd-7f12-4004-9049-3ac132babb2a)
+
 
 
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">

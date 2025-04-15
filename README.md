@@ -1,28 +1,7 @@
 
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Página Web</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 20px;
-        }
-        main {
-            padding: 20px;
-        }
-    </style>
-</head>
+![fronter](https://github.com/user-attachments/assets/9c530126-4feb-4180-93d0-a9dca6527b27)
+
 <body>
     <header>
         <h1>![fronter](https://github.com/user-attachments/assets/7f02a78c-1303-4087-8cd6-3161b4bf04e4)
